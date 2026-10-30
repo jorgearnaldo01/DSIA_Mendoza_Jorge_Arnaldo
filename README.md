@@ -1,2 +1,2 @@
-# DSIA_Mendoza_Jorge-Arnaldo
+# Prueba de creación de repositorio en GitHub
 Trabajo de integración de los TP individuales de DSIA
